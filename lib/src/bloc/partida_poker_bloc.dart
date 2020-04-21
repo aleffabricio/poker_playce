@@ -32,7 +32,7 @@ class PartidaPokerBloc implements BlocBase {
 
   @override
   void dispose() {
-
+    _jogada.close();
   }
 
   @override
