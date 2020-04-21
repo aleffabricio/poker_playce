@@ -17,7 +17,8 @@
 
 ## Tecnologias usadas
 
-1. Flutter/Dart
-2. `versão 1.12.13+hotfix.8`.
+1. Flutter/Dart.
+2. Bloc como gerenciamento de estado.
+3. `versão 1.12.13+hotfix.8`.
 
 
