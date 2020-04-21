@@ -18,12 +18,10 @@ class PartidaPokerBloc implements BlocBase {
 
   var _jogada = BehaviorSubject<String>();
 
-//
   Stream<String> get outJogada=> _jogada.stream;
   Sink<String> get inJogada => _jogada.sink;
 
   String get tipoJogada => _jogada.stream.value;
-
 
   @override
   void addListener(listener) {
@@ -32,7 +30,7 @@ class PartidaPokerBloc implements BlocBase {
 
   @override
   void dispose() {
-    _jogada.close();
+   // _jogada.close();
   }
 
   @override
