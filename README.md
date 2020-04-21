@@ -1,16 +1,23 @@
-# pokerplayce
+## Tela inicial
+![image](https://user-images.githubusercontent.com/14118647/79818447-37874d80-835e-11ea-844b-a1e36234403e.png)
 
-A new Flutter application.
+## Tela para jogar
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/14118647/79818497-5d145700-835e-11ea-9423-5287139f32e0.png)
 
-This project is a starting point for a Flutter application.
+## Vencedor
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/14118647/79818551-7c12e900-835e-11ea-8bba-8af7ff2724e0.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Detalhes do projeto
+
+1. E necessário ter a ultima versão da JDK do Flutter e configurar as variaveis de ambiente
+2. Testei na versão Android.
+
+## Tecnologias usadas
+
+1. Flutter/Dart
+2. `versão 1.12.13+hotfix.8`.
+
+
